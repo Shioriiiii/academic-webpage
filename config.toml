@@ -309,32 +309,32 @@ enableGitInfo = false
 [[menu.main]]
   name = "Publications"
   url = "#publications"
-  weight = 4
+  weight = 0
 
 [[menu.main]]
   name = "Patents"
   url = "#teaching"
-  weight = 6
+  weight = 0
   
   [[menu.main]]
   name= "Awards"
   url="#awards"
-  weight=8
+  weight=0
   
  [[menu.main]]
  name = "Talks"
  url="#invited_talks"
- weight=10
+ weight=0
 
 [[menu.main]]
 name= "Publications"
 url="#projects"
-weight=12
+weight=0
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 14
+  weight = 0
   
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
