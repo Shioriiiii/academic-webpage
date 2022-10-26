@@ -27,7 +27,7 @@ weight = 3
 +++
 
 # 
-***I have RA/TA Scholarships and Postdoc positions available at New Mexico State University. Please contact me if interested.***
+***I am an Economics student with an interest in Finance and Global Markets. Please contact me if interested.***
 
 Yixin Jiang is a penulminate year student studying BSc Economics at University of Warwick.
 
