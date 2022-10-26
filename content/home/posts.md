@@ -1,6 +1,6 @@
 +++
 # Recent Posts widget.
-# This widget displays recent posts from `content/post/`.
+# This widget displays recent posts from .
 widget = "posts"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear.
