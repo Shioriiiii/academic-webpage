@@ -20,66 +20,31 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Research Assistant"
-  company = "Arizona State University (ASU)"
-  company_url = "http://www.asu.edu"
-  location = "Tempe/AZ"
-  date_start = "2007-08-09"
-  date_end = "2009-07-31"
-  description = """Conducted research in PMU data analytics."""
+  title = "Equity Research Intern"
+  company = "Sealand Securities Co., Ltc"
+  company_url = "http://http://www.ghzq.com.cn/"
+  location = "Beijing, China"
+  date_start = "2022-08-22"
+  date_end = "Present"
+  description = """In-depth Industry Research."""
 
 [[experience]]
-  title = "Research Associate"
-  company = "Arizona State University (ASU)"
-  company_url = "http://www.asu.edu"
-  location = "Tempe/AZ"
-  date_start = "2009-08-01"
-  date_end = "2012-05-31"
-  description = """Conducted research in power system network reduction for engineering and economic analysis."""
+  title = "Women's Immersion Programme"
+  company = "Nomura"
+  company_url = "http://www.nomura.com"
+  location = "London, UK"
+  date_start = "2022-04-04"
+  date_end = "2022-04-14"
+  description = """Spring Insight Programme."""
 
 [[experience]]
-  title = "Research Intern"
-  company = "Electric Power Research Institute (EPRI)"
+  title = "Analyst Assistant"
+  company = "China Lianhe Credit Rating"
   company_url = "http://www.epri.com"
-  location = "California"
-  date_start = "2011-06-06"
-  date_end = "2011-08-25"
+  location = "Beijing, China"
+  date_start = "2021-08-12"
+  date_end = "2021-09-25"
   description = """ Conducted research in PMU data visualization, measurement based voltage stability assessment, and software development. """
- 
-[[experience]]
-  title = "Research Staff Member"
-  company = "NEC Laboratories America (NECLA)"
-  company_url = "http://www.nec-labs.com"
-  location = "California"
-  date_start = "2012-06-11"
-  date_end = "2015-10-01"
-  description = """ Led multiple R&D projects in areas of microgrids, energy storage, renewable integration, and hardware testbed development. """
- 
-[[experience]]
-  title = "Director/Department Head/Principal Engineer"
-  company = "GEIRI North America (GEIRINA)"
-  company_url = ""
-  location = "California"
-  date_start = "2015-10-02"
-  date_end = "2020-12-23"
-  description = """Led and coordinated across multiple research programs on project planning, management, and business development. Led the AI & System Analytics Group in researching innovative technologies and solutions for power systems in areas of data analytics, AI, energy storage systems, and Internet of things (IoT). Started the AI & System Analytics department (research program) and grew the team to 17 full-time researchers over 5 years."""
- 
-[[experience]]
-  title = "Founder"
-  company = "AINERGY, LLC"
-  company_url = "https://ainergys.com"
-  location = ""
-  date_start = "2020-12-24"
-  date_end = "2022-07-31"
-  description = """AInergy specializes in artificial intelligence technologies for energy. We develop solutions to help the power grid run more efficiently and reliably."""
 
-[[experience]]
-  title = "Associate Professor"
-  company = "New Mexico State University"
-  company_url = "https://nmsu.edu/"
-  location = "New Mexico"
-  date_start = "2022-08-15"
-  date_end = ""
-  description = """Teach, research, and service in the School of Electrical and Computer Engineering."""
 
 +++
